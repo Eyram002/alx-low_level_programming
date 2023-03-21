@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - this function will display the alphabet in lowercase without q and e then adds a new line
+ * main - this function will display the alphabet in lowercase
+ * without q and e then adds a new line
  *
  * Return: Aways 0 (Sucess)
  */
